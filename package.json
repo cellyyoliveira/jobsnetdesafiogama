@@ -15,7 +15,6 @@
     "express": "^4.17.1",
     "mongodb": "^4.1.1",
     "mongoose": "^6.0.1",
-    "swagger": "^0.7.5",
     "swagger-ui-express": "^4.1.6"
   },
   "devDependencies": {
